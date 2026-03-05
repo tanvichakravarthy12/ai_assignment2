@@ -72,13 +72,6 @@ python captcha_test.py
 
 ---
 
-# Requirements
-
-* Python **3.7+**
-* External libraries: `captcha`, `pillow`
-
----
-
 # Purpose
 
 These programs demonstrate:
